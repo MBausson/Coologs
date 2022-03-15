@@ -62,6 +62,7 @@ public static class Coologs
         }
         
         Console.Write(endwith);
+        Console.ResetColor();
     }
 
     /// <summary>
