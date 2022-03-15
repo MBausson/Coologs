@@ -15,3 +15,8 @@ About color's tag names:
 - The colors' names are **case-insensitive**
 - The colors' names available correspond to the vanilla `ConsoleColor` colors enum, *this means there's no need to update the library if new colors are added / removed*
 - If an incorrect color's name is given, the library doesn't raise any error, and will just print the raw specified piece of input.
+
+
+### Future implementations
+As of now, only the foreground is handled.  
+I plan an implementation for background color too.
